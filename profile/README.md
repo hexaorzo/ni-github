@@ -14,3 +14,6 @@ _Your Browser is_new_Operating System_
   <a href="https://discord.gg/3kTQKWZ4D3">Community</a>
   •
 </h3>
+
+![Discord Banner](https://discordapp.com/api/guilds/886864304341667850/widget.png?style=banner2)
+
